@@ -4,6 +4,7 @@ import random
 import hashlib
 
 
+
 class BlockChain(object):
     def __init__(self, hash_num):
         self.chain_list = []
