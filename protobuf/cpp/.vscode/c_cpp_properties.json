@@ -5,13 +5,20 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${vcpkgRoot}/x64-windows/include",
-                "c:/cygwin64/usr/include"
+                "c:/cygwin64/usr/include",
+                "D:/Project/tools/vcpkg/installed/x64-windows/include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${vcpkgRoot}/x64-windows/include"
+                ]
+            },
             "windowsSdkVersion": "10.0.18362.0",
             "compilerPath": "c:/cygwin64/bin/gcc",
             "cStandard": "c11",

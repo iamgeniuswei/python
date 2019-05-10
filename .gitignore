@@ -31,3 +31,17 @@ protobuf/cpp/main.cc.exe
 protobuf/cpp/server.cc.exe
 protobuf/cpp/server.cc.exe.stackdump
 protobuf/cpp/libevent/forking_rot13_server/server.exe
+protobuf/cpp/libevent/reactor_server/low_level_libevent_server.cc
+protobuf/cpp/Makefile
+protobuf/cpp/a.exe
+protobuf/cpp/test.cc
+protobuf/cpp/test.o
+protobuf/cpp/.vscode/c_cpp_properties.json
+protobuf/cpp/.vscode/launch.json
+protobuf/cpp/.vscode/tasks.json
+protobuf/cpp/.vscode/ipch/5c73850fd4e0169e/SELECT_SERVER.ipch
+protobuf/cpp/.vscode/ipch/5c73850fd4e0169e/mmap_address.bin
+protobuf/cpp/.vscode/ipch/8e3d1fd607659bef/LOW_LEVEL_LIBEVENT_SERVER.ipch
+protobuf/cpp/.vscode/ipch/8e3d1fd607659bef/mmap_address.bin
+protobuf/cpp/.vscode/ipch/e503d237559e660f/TEST.ipch
+protobuf/cpp/.vscode/ipch/e503d237559e660f/mmap_address.bin
