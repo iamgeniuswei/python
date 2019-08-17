@@ -1,0 +1,8 @@
+start,B,4
+start,C,10
+B,E,21
+C,D,5
+D,E,5
+C,F,8
+F,E,12
+E,end,4

@@ -1,0 +1,5 @@
+start,B,6
+start,C,2
+C,B,3
+B,end,1
+C,end,5
